@@ -15,3 +15,5 @@ data = 1.34
 data_type = type(data)
 print("The data is a ", data_type)
 print()
+
+print(type("3.14989"))
